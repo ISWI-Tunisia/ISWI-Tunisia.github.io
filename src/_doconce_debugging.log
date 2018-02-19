@@ -27,7 +27,7 @@ FIGURE: [media/ISWI_TUN.png, width=200 frac=1.0]
 ========= More details =========
 ===== Developped Software and Tools =====
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* ..
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
 
 
@@ -46,7 +46,7 @@ FIGURE: [media/ISWI_TUN.png, width=200 frac=1.0]
 ========= More details =========
 ===== Developped Software and Tools =====
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* ..
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
 
 
@@ -65,7 +65,7 @@ FIGURE: [media/ISWI_TUN.png, width=200 frac=1.0]
 ========= More details =========
 ===== Developped Software and Tools =====
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* ..
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
 
 The code blocks:
@@ -93,7 +93,7 @@ FIGURE: [media/ISWI_TUN.png, width=200 frac=1.0]
 ========= More details =========
 ===== Developped Software and Tools =====
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* ..
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
 
 
@@ -112,7 +112,7 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 ========= More details =========
 ===== Developped Software and Tools =====
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* ..
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
 
 
@@ -131,7 +131,7 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 ========= More details  <a name="___sec0"></a>=========
 ===== Developped Software and Tools  <a name="___sec1"></a>=====
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* ..
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
 
 ************************************************************
@@ -149,7 +149,7 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 ========= More details  <a name="___sec0"></a>=========
 ===== Developped Software and Tools  <a name="___sec1"></a>=====
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* ..
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
 *** List typesetting phase + comments and blank lines ***
 
@@ -176,8 +176,8 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 --> ["AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"]
 
 
-[* ..] (bullet list)
---> [..]
+[* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"] (bullet list)
+--> ["IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"]
 
 
 closing list: end of a itemize list
@@ -206,7 +206,7 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 
 <ul>
 <li> "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-<li> ..
+<li> "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 </ul>
 
 
@@ -262,7 +262,7 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 
 <ul>
 <li> "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-<li> ..
+<li> "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 </ul>
 
 
@@ -347,7 +347,7 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 *************** Working with tag "linkURL2"
 
 
-Found 5 occurences of "linkURL2":
+Found 6 occurences of "linkURL2":
 findall list: [('University of Tunis El Manar', 'http://www.utm.rnu.tn/utm/fr/', 'http://'),
  ('ISWI', 'http://www.iswi-secretariat.org/', 'http://'),
  ('COPUOS',
@@ -356,7 +356,11 @@ findall list: [('University of Tunis El Manar', 'http://www.utm.rnu.tn/utm/fr/',
  ('UNOOSA', 'http://www.unoosa.org/', 'http://'),
  ('AWESOM-SuperSID',
   'https://github.com/ISWI-Tunisia/AWESOM-SuperSID',
-  'https://')]
+  'https://'),
+ ('IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et '
+  'GOES.',
+  'http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb',
+  'http://')]
 
 
 linkURL2 is to be replaced using <a href="\g<url>" target="_self">\g<link></a>
@@ -368,7 +372,7 @@ named groups: {'link': 'University of Tunis El Manar', 'url': 'http://www.utm.rn
 
 
 
-**** The file after 5 "linkURL2" substitutions ***
+**** The file after 6 "linkURL2" substitutions ***
 
 
 <center><h1>ISWI-Tunisia</h1></center>  <!-- document title -->
@@ -390,7 +394,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -447,7 +451,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -501,7 +505,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -549,7 +553,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -580,7 +584,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -611,7 +615,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -718,7 +722,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -842,7 +846,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -967,7 +971,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> ..
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
 </ul>
 
 
@@ -1100,7 +1104,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
-<li> ..</li>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a></li>
 </ul>
 
 
@@ -1234,7 +1238,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
-<li> ..</li>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a></li>
 </ul>
 
 
@@ -1368,7 +1372,7 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
-<li> ..</li>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a></li>
 </ul>
 
 
