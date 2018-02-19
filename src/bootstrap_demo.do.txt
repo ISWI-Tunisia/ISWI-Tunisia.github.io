@@ -10,8 +10,5 @@ FIGURE: [media/ISWI_TUN.png, width=200 frac=1.0]
 ========= More details =========
 ===== Developped Software and Tools =====
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* ..
-
-===== Workshops and conferences =====
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
