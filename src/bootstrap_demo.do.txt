@@ -21,7 +21,7 @@ FIGURE: [media/SuperSID_mon, width=200 frac=1.0]
 * Primarily tracks solar SID’s 
 * Easy to set up and use  
 * Antenna simple to build and low cost
-* The data is available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
+* Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 !enotice
 !eslidecell
 

@@ -180,3 +180,11 @@ figure file media/ISWI_TUN:
 figure file media/awesom_mon:
     can use media/awesom_mon.jpg for format html
 output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/awesom_mon:
+    can use media/awesom_mon.jpg for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+output in index.html
