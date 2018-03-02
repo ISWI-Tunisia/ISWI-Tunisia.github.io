@@ -40,3 +40,143 @@ translating doconce text in bootstrap_demo.do.txt to html
 output in index.html
 translating doconce text in bootstrap_demo.do.txt to html
 output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+translating doconce text in bootstrap_demo.do.txt to html
+translating doconce text in bootstrap_demo.do.txt to html
+translating doconce text in bootstrap_demo.do.txt to html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+
+*** warning: found multi-line caption for media/AWESOME_mon
+
+
+* Student and researcher use 
+* Moderate cost     
+* Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
+* High-resolution 16-bit     
+* Accurate timing via GPS 
+* Monitors solar SID’s, lightning, GRB's, ionospheric phenomena, etc. 
+* Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
+* Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+*** error: figure file "media/AWESOME_mon" does not exist!
+translating doconce text in bootstrap_demo.do.txt to html
+
+*** warning: found multi-line caption for media/awesom_mon
+
+
+* Student and researcher use 
+* Moderate cost     
+* Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
+* High-resolution 16-bit     
+* Accurate timing via GPS 
+* Monitors solar SID’s, lightning, GRB's, ionospheric phenomena, etc. 
+* Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
+* Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
+
+    fix: collected this text to one single line (right?)
+
+*** warning: the total of 1 fixes above should be manually edited in the file!
+    (also note: some of these automatic fixes may not be what you want)
+
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+figure file media/awesom_mon:
+    can use media/awesom_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/awesom_mon:
+    can use media/awesom_mon.jpg for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/awesom_mon:
+    can use media/awesom_mon.jpg for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+figure file media/awesom_mon:
+    can use media/awesom_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/awesom_mon:
+    can use media/awesom_mon.jpg for format html
+output in index.html
+translating doconce text in bootstrap_demo.do.txt to html
+figure file media/SuperSID_mon:
+    can use media/SuperSID_mon.jpg for format html
+figure file media/ISWI_TUN:
+    can use media/ISWI_TUN.png for format html
+figure file media/awesom_mon:
+    can use media/awesom_mon.jpg for format html
+output in index.html

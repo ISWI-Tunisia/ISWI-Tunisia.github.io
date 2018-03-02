@@ -2,13 +2,51 @@ TITLE: ISWI-Tunisia
 
 LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : "http://www.utm.rnu.tn/utm/fr/" is part of the International Space Weather Initiative ("ISWI" : "http://www.iswi-secretariat.org/"), a program founded and established by the Committee on the Peaceful Uses of Outer Space ("COPUOS" : "http://www.unoosa.org/oosa/en/ourwork/copuos/index.html") within the United Nations Office for Outer Space Affairs ("UNOOSA" : "http://www.unoosa.org/"). Our team studies the Earth's electrical environment through the effects of thunderstorm activity, seismic activity, solar activity, volcanic activity and solar eclipses on its upper atmosphere composed of ionosphere and magnetosphere as well as radiation belts.
 
-FIGURE: [media/ISWI_TUN.png, width=200 frac=1.0]
-
-
+FIGURE: [media/ISWI_TUN, width=200 frac=1.0]
 
 !split
-========= More details =========
-===== Developped Software and Tools =====
+========= ISWI Instruments in Tunisia =========
+
+# Note: panels are realized as admons, using --admon_style=bootstrap_panel
+
+# begin-grid-area
+
+!bslidecell 00
+!bnotice SuperSID Monitor
+SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
+FIGURE: [media/SuperSID_mon, width=200 frac=1.0]
+* Classroom use     
+* Inexpensive     
+* Monitors multiple VLF stations 
+* Primarily tracks solar SID’s 
+* Easy to set up and use  
+* Antenna simple to build and low cost
+* The data is available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
+!enotice
+!eslidecell
+
+!bslidecell 01
+!bnotice AWESOME Monitor 
+Atmospheric Weather Electromagnetic System for Observation Modeling and Education
+
+FIGURE: [media/awesom_mon, width=200 frac=1.0]
+
+* Student and researcher use 
+* Moderate cost     
+* Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
+* High-resolution 16-bit     
+* Accurate timing via GPS 
+* Monitors solar SID’s, lightning, GRB's, ionospheric phenomena, etc. 
+* Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
+* Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
+
+!enotice
+!eslidecell
+
+# end-grid-area
+
+!split
+========= Developped Software and Tools =========
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 
