@@ -28,44 +28,41 @@ FIGURE: [media/ISWI_TUN, width=200 frac=1.0]
 
 # begin-grid-area
 
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-FIGURE: [media/SuperSID_mon, width=200 frac=1.0]
+FIGURE: [media/SuperSID_mon, width=400 frac=1.0]
 * Classroom use     
 * Inexpensive     
 * Monitors multiple VLF stations 
-* Primarily tracks solar SID’s 
+* Primarily tracks solar SID's 
 * Easy to set up and use  
 * Antenna simple to build and low cost
 * Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 !enotice
-!eslidecell
 
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
-FIGURE: [media/awesom_mon, width=200 frac=1.0]
+FIGURE: [media/awesom_mon, width=400 frac=1.0]
 
 * Student and researcher use 
 * Moderate cost     
 * Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 * High-resolution 16-bit     
 * Accurate timing via GPS 
-* Monitors solar SID’s, lightning, GRB's, ionospheric phenomena, etc. 
+* Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 * Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 * Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 
 !enotice
-!eslidecell
 
 # end-grid-area
 
 !split
 ========= Developped Software and Tools =========
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 
 
 
@@ -85,44 +82,41 @@ FIGURE: [media/ISWI_TUN, width=200 frac=1.0]
 
 # begin-grid-area
 
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-FIGURE: [media/SuperSID_mon, width=200 frac=1.0]
+FIGURE: [media/SuperSID_mon, width=400 frac=1.0]
 * Classroom use     
 * Inexpensive     
 * Monitors multiple VLF stations 
-* Primarily tracks solar SID’s 
+* Primarily tracks solar SID's 
 * Easy to set up and use  
 * Antenna simple to build and low cost
 * Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 !enotice
-!eslidecell
 
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
-FIGURE: [media/awesom_mon, width=200 frac=1.0]
+FIGURE: [media/awesom_mon, width=400 frac=1.0]
 
 * Student and researcher use 
 * Moderate cost     
 * Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 * High-resolution 16-bit     
 * Accurate timing via GPS 
-* Monitors solar SID’s, lightning, GRB's, ionospheric phenomena, etc. 
+* Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 * Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 * Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 
 !enotice
-!eslidecell
 
 # end-grid-area
 
 !split
 ========= Developped Software and Tools =========
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 
 
 
@@ -142,44 +136,41 @@ FIGURE: [media/ISWI_TUN, width=200 frac=1.0]
 
 # begin-grid-area
 
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-FIGURE: [media/SuperSID_mon, width=200 frac=1.0]
+FIGURE: [media/SuperSID_mon, width=400 frac=1.0]
 * Classroom use     
 * Inexpensive     
 * Monitors multiple VLF stations 
-* Primarily tracks solar SID’s 
+* Primarily tracks solar SID's 
 * Easy to set up and use  
 * Antenna simple to build and low cost
 * Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 !enotice
-!eslidecell
 
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
-FIGURE: [media/awesom_mon, width=200 frac=1.0]
+FIGURE: [media/awesom_mon, width=400 frac=1.0]
 
 * Student and researcher use 
 * Moderate cost     
 * Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 * High-resolution 16-bit     
 * Accurate timing via GPS 
-* Monitors solar SID’s, lightning, GRB's, ionospheric phenomena, etc. 
+* Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 * Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 * Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 
 !enotice
-!eslidecell
 
 # end-grid-area
 
 !split
 ========= Developped Software and Tools =========
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 
 
 The code blocks:
@@ -208,44 +199,41 @@ FIGURE: [media/ISWI_TUN, width=200 frac=1.0]
 
 # begin-grid-area
 
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-FIGURE: [media/SuperSID_mon, width=200 frac=1.0]
+FIGURE: [media/SuperSID_mon, width=400 frac=1.0]
 * Classroom use     
 * Inexpensive     
 * Monitors multiple VLF stations 
-* Primarily tracks solar SID’s 
+* Primarily tracks solar SID's 
 * Easy to set up and use  
 * Antenna simple to build and low cost
 * Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 !enotice
-!eslidecell
 
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
-FIGURE: [media/awesom_mon, width=200 frac=1.0]
+FIGURE: [media/awesom_mon, width=400 frac=1.0]
 
 * Student and researcher use 
 * Moderate cost     
 * Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 * High-resolution 16-bit     
 * Accurate timing via GPS 
-* Monitors solar SID’s, lightning, GRB's, ionospheric phenomena, etc. 
+* Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 * Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 * Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 
 !enotice
-!eslidecell
 
 # end-grid-area
 
 !split
 ========= Developped Software and Tools =========
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 
 
 
@@ -265,44 +253,41 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 
 # begin-grid-area
 
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 * Classroom use     
 * Inexpensive     
 * Monitors multiple VLF stations 
-* Primarily tracks solar SID’s 
+* Primarily tracks solar SID's 
 * Easy to set up and use  
 * Antenna simple to build and low cost
 * Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 !enotice
-!eslidecell
 
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 * Student and researcher use 
 * Moderate cost     
 * Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 * High-resolution 16-bit     
 * Accurate timing via GPS 
-* Monitors solar SID’s, lightning, GRB's, ionospheric phenomena, etc. 
+* Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 * Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 * Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 
 !enotice
-!eslidecell
 
 # end-grid-area
 
 !split
 ========= Developped Software and Tools =========
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* "IMAO_2017 (fr): Tutoriels Python pour le traitement des données SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 
 
 
@@ -322,44 +307,41 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 
 # begin-grid-area
 
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 * Classroom use     
 * Inexpensive     
 * Monitors multiple VLF stations 
-* Primarily tracks solar SID&#8217;s 
+* Primarily tracks solar SID's 
 * Easy to set up and use  
 * Antenna simple to build and low cost
 * Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 !enotice
-!eslidecell
 
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 * Student and researcher use 
 * Moderate cost     
 * Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 * High-resolution 16-bit     
 * Accurate timing via GPS 
-* Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+* Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 * Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 * Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 
 !enotice
-!eslidecell
 
 # end-grid-area
 
 !split
 ========= Developped Software and Tools  <a name="___sec1"></a>=========
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 
 
 ************************************************************
@@ -378,44 +360,41 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 
 # begin-grid-area
 
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 * Classroom use     
 * Inexpensive     
 * Monitors multiple VLF stations 
-* Primarily tracks solar SID&#8217;s 
+* Primarily tracks solar SID's 
 * Easy to set up and use  
 * Antenna simple to build and low cost
 * Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 !enotice
-!eslidecell
 
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 * Student and researcher use 
 * Moderate cost     
 * Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 * High-resolution 16-bit     
 * Accurate timing via GPS 
-* Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+* Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 * Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 * Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 
 !enotice
-!eslidecell
 
 # end-grid-area
 
 !split
 ========= Developped Software and Tools  <a name="___sec1"></a>=========
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+* "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 
 *** List typesetting phase + comments and blank lines ***
 
@@ -435,16 +414,13 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 [========= ISWI Instruments in Tunisia  <a name="___sec0"></a>=========] (ordinary line)
 
 
-[!bslidecell 00] (ordinary line)
-
-
 [!bnotice SuperSID Monitor] (ordinary line)
 
 
 [SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor] (ordinary line)
 
 
-[<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />] (ordinary line)
+[<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />] (ordinary line)
 
 
 [* Classroom use     ] (bullet list)
@@ -459,8 +435,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 --> [Monitors multiple VLF stations ]
 
 
-[* Primarily tracks solar SID&#8217;s ] (bullet list)
---> [Primarily tracks solar SID&#8217;s ]
+[* Primarily tracks solar SID's ] (bullet list)
+--> [Primarily tracks solar SID's ]
 
 
 [* Easy to set up and use  ] (bullet list)
@@ -478,19 +454,13 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 [!enotice] (ordinary line)
 
 
-[!eslidecell] (ordinary line)
-
-
-[!bslidecell 01] (ordinary line)
-
-
 [!bnotice AWESOME Monitor ] (ordinary line)
 
 
 [Atmospheric Weather Electromagnetic System for Observation Modeling and Education] (ordinary line)
 
 
-[<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />] (ordinary line)
+[<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />] (ordinary line)
 
 
 [* Student and researcher use ] (bullet list)
@@ -513,8 +483,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 --> [Accurate timing via GPS ]
 
 
-[* Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. ] (bullet list)
---> [Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. ]
+[* Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. ] (bullet list)
+--> [Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. ]
 
 
 [* Requires 2 antennas: N/S and E/W and a location such as a field  to set up. ] (bullet list)
@@ -528,9 +498,6 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 [!enotice] (ordinary line)
 
 
-[!eslidecell] (ordinary line)
-
-
 [!split] (ordinary line)
 
 
@@ -541,8 +508,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 --> ["AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"]
 
 
-[* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"] (bullet list)
---> ["IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"]
+[* "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"] (bullet list)
+--> ["IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"]
+
+
+[* "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"] (bullet list)
+--> ["PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"]
 
 
 closing list: end of a itemize list
@@ -571,31 +542,28 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 <!-- begin-grid-area -->
 
 <p>
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -605,13 +573,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
 <!-- end-grid-area -->
@@ -622,7 +589,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-<li> "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+<li> "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+<li> "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 </ul>
 
 
@@ -678,31 +646,28 @@ LSAMA's Very Low Frequencies (VLF) team at the "University of Tunis El Manar" : 
 <!-- begin-grid-area -->
 
 <p>
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on "Stanford Solar Center website" : "http://sid.stanford.edu/database-browser/". 
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -712,13 +677,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
 <!-- end-grid-area -->
@@ -729,7 +693,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
-<li> "IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+<li> "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
+<li> "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
 </ul>
 
 
@@ -814,7 +779,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 *************** Working with tag "linkURL2"
 
 
-Found 7 occurences of "linkURL2":
+Found 8 occurences of "linkURL2":
 findall list: [('University of Tunis El Manar', 'http://www.utm.rnu.tn/utm/fr/', 'http://'),
  ('ISWI', 'http://www.iswi-secretariat.org/', 'http://'),
  ('COPUOS',
@@ -827,10 +792,11 @@ findall list: [('University of Tunis El Manar', 'http://www.utm.rnu.tn/utm/fr/',
  ('AWESOM-SuperSID',
   'https://github.com/ISWI-Tunisia/AWESOM-SuperSID',
   'https://'),
- ('IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et '
+ ('IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et '
   'GOES.',
   'http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb',
-  'http://')]
+  'http://'),
+ ('PyDAQviewer', 'https://iswi-tunisia.github.io/PyDAQviewer/', 'https://')]
 
 
 linkURL2 is to be replaced using <a href="\g<url>" target="_self">\g<link></a>
@@ -842,7 +808,7 @@ named groups: {'link': 'University of Tunis El Manar', 'url': 'http://www.utm.rn
 
 
 
-**** The file after 7 "linkURL2" substitutions ***
+**** The file after 8 "linkURL2" substitutions ***
 
 
 <center><h1>ISWI-Tunisia</h1></center>  <!-- document title -->
@@ -864,31 +830,28 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- begin-grid-area -->
 
 <p>
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_self">Stanford Solar Center website</a>. 
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -898,13 +861,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
 <!-- end-grid-area -->
@@ -915,7 +877,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
 </ul>
 
 
@@ -973,31 +936,28 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- begin-grid-area -->
 
 <p>
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_self">Stanford Solar Center website</a>. 
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -1007,13 +967,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
 <!-- end-grid-area -->
@@ -1025,7 +984,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
 </ul>
 
 
@@ -1080,31 +1040,28 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- begin-grid-area -->
 
 <p>
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_self">Stanford Solar Center website</a>. 
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -1114,13 +1071,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
 <!-- end-grid-area -->
@@ -1132,7 +1088,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
 </ul>
 
 
@@ -1162,31 +1119,28 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- begin-grid-area -->
 
 <p>
-!bslidecell 00
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_self">Stanford Solar Center website</a>. 
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
-!bslidecell 01
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -1196,13 +1150,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-!eslidecell
 
 <p>
 <!-- end-grid-area -->
@@ -1214,7 +1167,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
 </ul>
 
 
@@ -1244,31 +1198,28 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- begin-grid-area -->
 
 <p>
-<!-- !bslidecell 00 -->
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_self">Stanford Solar Center website</a>. 
 </ul>
 
 !enotice
-<!-- !eslidecell -->
 
 <p>
-<!-- !bslidecell 01 -->
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -1278,13 +1229,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-<!-- !eslidecell -->
 
 <p>
 <!-- end-grid-area -->
@@ -1296,7 +1246,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
 </ul>
 
 
@@ -1402,31 +1353,28 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- begin-grid-area -->
 
 <p>
-<!-- !bslidecell 00 -->
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_self">Stanford Solar Center website</a>. 
 </ul>
 
 !enotice
-<!-- !eslidecell -->
 
 <p>
-<!-- !bslidecell 01 -->
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -1436,13 +1384,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-<!-- !eslidecell -->
 
 <p>
 <!-- end-grid-area -->
@@ -1454,7 +1401,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
 </ul>
 
 
@@ -1577,31 +1525,28 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- begin-grid-area -->
 
 <p>
-<!-- !bslidecell 00 -->
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_self">Stanford Solar Center website</a>. 
 </ul>
 
 !enotice
-<!-- !eslidecell -->
 
 <p>
-<!-- !bslidecell 01 -->
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -1611,13 +1556,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-<!-- !eslidecell -->
 
 <p>
 <!-- end-grid-area -->
@@ -1629,7 +1573,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
 </ul>
 
 
@@ -1753,31 +1698,28 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- begin-grid-area -->
 
 <p>
-<!-- !bslidecell 00 -->
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use     
 <li> Inexpensive     
 <li> Monitors multiple VLF stations 
-<li> Primarily tracks solar SID&#8217;s 
+<li> Primarily tracks solar SID's 
 <li> Easy to set up and use  
 <li> Antenna simple to build and low cost
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_self">Stanford Solar Center website</a>. 
 </ul>
 
 !enotice
-<!-- !eslidecell -->
 
 <p>
-<!-- !bslidecell 01 -->
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <p>
 
@@ -1787,13 +1729,12 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously 
 <li> High-resolution 16-bit     
 <li> Accurate timing via GPS 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc. 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc. 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up. 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.
 </ul>
 
 !enotice
-<!-- !eslidecell -->
 
 <p>
 <!-- end-grid-area -->
@@ -1805,7 +1746,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
 </ul>
 
 
@@ -1939,34 +1881,31 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- Note: panels are realized as admons, using --admon_style=bootstrap_panel -->
 
 <p>
-<div class="row"> <!-- begin cell row -->
-  <div class="col-sm-4">
+<!-- begin-grid-area -->
 
-<p> <!-- subsequent paragraphs come in larger fonts, so start with a paragraph -->
+<p>
 !bnotice SuperSID Monitor
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use</li>     
 <li> Inexpensive</li>     
 <li> Monitors multiple VLF stations</li> 
-<li> Primarily tracks solar SID&#8217;s</li> 
+<li> Primarily tracks solar SID's</li> 
 <li> Easy to set up and use</li>  
 <li> Antenna simple to build and low cost</li>
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_blank">Stanford Solar Center website</a>.</li> 
 </ul>
 
 !enotice
-  </div> <!-- column col-sm-4 -->
-  <div class="col-sm-4">
 
-<p> <!-- subsequent paragraphs come in larger fonts, so start with a paragraph -->
+<p>
 !bnotice AWESOME Monitor 
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Student and researcher use</li> 
@@ -1974,14 +1913,15 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously</li> 
 <li> High-resolution 16-bit</li>     
 <li> Accurate timing via GPS</li> 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc.</li> 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc.</li> 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up.</li> 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.</li>
 </ul>
 
 !enotice
-  </div> <!-- column col-sm-4 -->
-</div> <!-- end cell row -->
+
+<p>
+<!-- end-grid-area -->
 
 <p>
 <!-- !split -->
@@ -1990,7 +1930,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a></li>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a></li>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_blank">PyDAQviewer</a></li>
 </ul>
 
 
@@ -2125,10 +2066,9 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- Note: panels are realized as admons, using --admon_style=bootstrap_panel -->
 
 <p>
-<div class="row"> <!-- begin cell row -->
-  <div class="col-sm-4">
+<!-- begin-grid-area -->
 
-<p> <!-- subsequent paragraphs come in larger fonts, so start with a paragraph -->
+<p>
 <div class="panel panel-primary">
   <div class="panel-heading">
   <h3 class="panel-title">SuperSID Monitor</h3>
@@ -2136,13 +2076,13 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <div class="panel-body">
 <p> <!-- subsequent paragraphs come in larger fonts, so start with a paragraph -->
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use</li>     
 <li> Inexpensive</li>     
 <li> Monitors multiple VLF stations</li> 
-<li> Primarily tracks solar SID&#8217;s</li> 
+<li> Primarily tracks solar SID's</li> 
 <li> Easy to set up and use</li>  
 <li> Antenna simple to build and low cost</li>
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_blank">Stanford Solar Center website</a>.</li> 
@@ -2150,10 +2090,8 @@ SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
 </div>
 </div>
 
-  </div> <!-- column col-sm-4 -->
-  <div class="col-sm-4">
 
-<p> <!-- subsequent paragraphs come in larger fonts, so start with a paragraph -->
+<p>
 <div class="panel panel-primary">
   <div class="panel-heading">
   <h3 class="panel-title">AWESOME Monitor</h3>
@@ -2163,7 +2101,7 @@ SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Student and researcher use</li> 
@@ -2171,15 +2109,16 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously</li> 
 <li> High-resolution 16-bit</li>     
 <li> Accurate timing via GPS</li> 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc.</li> 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc.</li> 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up.</li> 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.</li>
 </ul>
 </div>
 </div>
 
-  </div> <!-- column col-sm-4 -->
-</div> <!-- end cell row -->
+
+<p>
+<!-- end-grid-area -->
 
 <p>
 <!-- !split -->
@@ -2188,7 +2127,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a></li>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a></li>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_blank">PyDAQviewer</a></li>
 </ul>
 
 
@@ -2323,10 +2263,9 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <!-- Note: panels are realized as admons, using --admon_style=bootstrap_panel -->
 
 <p>
-<div class="row"> <!-- begin cell row -->
-  <div class="col-sm-4">
+<!-- begin-grid-area -->
 
-<p> <!-- subsequent paragraphs come in larger fonts, so start with a paragraph -->
+<p>
 <div class="panel panel-primary">
   <div class="panel-heading">
   <h3 class="panel-title">SuperSID Monitor</h3>
@@ -2334,13 +2273,13 @@ LSAMA's Very Low Frequencies (VLF) team at the <a href="http://www.utm.rnu.tn/ut
 <div class="panel-body">
 <p> <!-- subsequent paragraphs come in larger fonts, so start with a paragraph -->
 SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
-<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/SuperSID_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Classroom use</li>     
 <li> Inexpensive</li>     
 <li> Monitors multiple VLF stations</li> 
-<li> Primarily tracks solar SID&#8217;s</li> 
+<li> Primarily tracks solar SID's</li> 
 <li> Easy to set up and use</li>  
 <li> Antenna simple to build and low cost</li>
 <li> Data are available on <a href="http://sid.stanford.edu/database-browser/" target="_blank">Stanford Solar Center website</a>.</li> 
@@ -2348,10 +2287,8 @@ SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
 </div>
 </div>
 
-  </div> <!-- column col-sm-4 -->
-  <div class="col-sm-4">
 
-<p> <!-- subsequent paragraphs come in larger fonts, so start with a paragraph -->
+<p>
 <div class="panel panel-primary">
   <div class="panel-heading">
   <h3 class="panel-title">AWESOME Monitor</h3>
@@ -2361,7 +2298,7 @@ SOLAR SuperSID (Super - Sudden Ionosphere Disturbance) Monitor
 Atmospheric Weather Electromagnetic System for Observation Modeling and Education
 
 <p>
-<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=200></p></center><br /><br />
+<br /><br /><center><p><img src="media/awesom_mon.jpg" align="bottom" width=400></p></center><br /><br />
 
 <ul>
 <li> Student and researcher use</li> 
@@ -2369,15 +2306,16 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> Receives all VLF stations and covers frequencies 30Hz -50 KHz simultaneously</li> 
 <li> High-resolution 16-bit</li>     
 <li> Accurate timing via GPS</li> 
-<li> Monitors solar SID&#8217;s, lightning, GRB's, ionospheric phenomena, etc.</li> 
+<li> Monitors solar SID's, lightning, GRB's, ionospheric phenomena, etc.</li> 
 <li> Requires 2 antennas: N/S and E/W and a location such as a field  to set up.</li> 
 <li> Requires a computer with processing power to keep up with high-speed data stream and FFT calculations.</li>
 </ul>
 </div>
 </div>
 
-  </div> <!-- column col-sm-4 -->
-</div> <!-- end cell row -->
+
+<p>
+<!-- end-grid-area -->
 
 <p>
 <!-- !split -->
@@ -2386,7 +2324,8 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 
 <ul>
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
-<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donn&#233;es SID et GOES.</a></li>
+<li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a></li>
+<li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_blank">PyDAQviewer</a></li>
 </ul>
 
 
