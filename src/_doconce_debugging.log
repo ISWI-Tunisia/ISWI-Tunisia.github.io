@@ -63,7 +63,7 @@ FIGURE: [media/awesom_mon, width=400 frac=1.0]
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 * "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
-
+* "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 
 
 ************************************************************
@@ -117,7 +117,7 @@ FIGURE: [media/awesom_mon, width=400 frac=1.0]
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 * "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
-
+* "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 
 
 ************************************************************
@@ -171,7 +171,7 @@ FIGURE: [media/awesom_mon, width=400 frac=1.0]
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 * "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
-
+* "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 
 The code blocks:
 
@@ -234,7 +234,7 @@ FIGURE: [media/awesom_mon, width=400 frac=1.0]
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 * "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
-
+* "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 
 
 ************************************************************
@@ -288,7 +288,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 * "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
-
+* "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 
 
 ************************************************************
@@ -342,7 +342,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 * "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
-
+* "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 
 ************************************************************
 str>>> The file after handling index and bibliography:
@@ -395,7 +395,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 * "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 * "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 * "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
-
+* "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 *** List typesetting phase + comments and blank lines ***
 
 
@@ -516,6 +516,10 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 --> ["PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"]
 
 
+[* "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"] (bullet list)
+--> ["Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"]
+
+
 closing list: end of a itemize list
 
 
@@ -591,6 +595,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 <li> "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 <li> "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
+<li> "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 </ul>
 
 
@@ -695,6 +700,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> "AWESOM-SuperSID" : "https://github.com/ISWI-Tunisia/AWESOM-SuperSID"
 <li> "IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES." : "http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb"
 <li> "PyDAQviewer" : "https://iswi-tunisia.github.io/PyDAQviewer/"
+<li> "Geomagnetic activity and narrowband data" : "https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data"
 </ul>
 
 
@@ -779,7 +785,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 *************** Working with tag "linkURL2"
 
 
-Found 8 occurences of "linkURL2":
+Found 9 occurences of "linkURL2":
 findall list: [('University of Tunis El Manar', 'http://www.utm.rnu.tn/utm/fr/', 'http://'),
  ('ISWI', 'http://www.iswi-secretariat.org/', 'http://'),
  ('COPUOS',
@@ -796,7 +802,10 @@ findall list: [('University of Tunis El Manar', 'http://www.utm.rnu.tn/utm/fr/',
   'GOES.',
   'http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb',
   'http://'),
- ('PyDAQviewer', 'https://iswi-tunisia.github.io/PyDAQviewer/', 'https://')]
+ ('PyDAQviewer', 'https://iswi-tunisia.github.io/PyDAQviewer/', 'https://'),
+ ('Geomagnetic activity and narrowband data',
+  'https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data',
+  'https://')]
 
 
 linkURL2 is to be replaced using <a href="\g<url>" target="_self">\g<link></a>
@@ -808,7 +817,7 @@ named groups: {'link': 'University of Tunis El Manar', 'url': 'http://www.utm.rn
 
 
 
-**** The file after 8 "linkURL2" substitutions ***
+**** The file after 9 "linkURL2" substitutions ***
 
 
 <center><h1>ISWI-Tunisia</h1></center>  <!-- document title -->
@@ -879,6 +888,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_self">Geomagnetic activity and narrowband data</a>
 </ul>
 
 
@@ -986,6 +996,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_self">Geomagnetic activity and narrowband data</a>
 </ul>
 
 
@@ -1090,6 +1101,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_self">Geomagnetic activity and narrowband data</a>
 </ul>
 
 
@@ -1169,6 +1181,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_self">Geomagnetic activity and narrowband data</a>
 </ul>
 
 
@@ -1248,6 +1261,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_self">Geomagnetic activity and narrowband data</a>
 </ul>
 
 
@@ -1403,6 +1417,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_self">Geomagnetic activity and narrowband data</a>
 </ul>
 
 
@@ -1575,6 +1590,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_self">Geomagnetic activity and narrowband data</a>
 </ul>
 
 
@@ -1748,6 +1764,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_self">AWESOM-SuperSID</a>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_self">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_self">PyDAQviewer</a>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_self">Geomagnetic activity and narrowband data</a>
 </ul>
 
 
@@ -1932,6 +1949,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a></li>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_blank">PyDAQviewer</a></li>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_blank">Geomagnetic activity and narrowband data</a></li>
 </ul>
 
 
@@ -2129,6 +2147,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a></li>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_blank">PyDAQviewer</a></li>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_blank">Geomagnetic activity and narrowband data</a></li>
 </ul>
 
 
@@ -2326,6 +2345,7 @@ Atmospheric Weather Electromagnetic System for Observation Modeling and Educatio
 <li> <a href="https://github.com/ISWI-Tunisia/AWESOM-SuperSID" target="_blank">AWESOM-SuperSID</a></li>
 <li> <a href="http://nbviewer.jupyter.org/github/astrax/IMAO_2017/blob/master/Tutoriel%20SID%20&%20GOES.ipynb" target="_blank">IMAO_2017 (fr): Tutoriels Python pour le traitement des donnees SID et GOES.</a></li>
 <li> <a href="https://iswi-tunisia.github.io/PyDAQviewer/" target="_blank">PyDAQviewer</a></li>
+<li> <a href="https://github.com/ISWI-Tunisia/AWESOME-SuperSID/tree/master/AWESOME/NarrowBand/concatinate_data" target="_blank">Geomagnetic activity and narrowband data</a></li>
 </ul>
 
 
